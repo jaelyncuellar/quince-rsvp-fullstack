@@ -1,5 +1,6 @@
 # Quince RSVP Fullstack
-A full-stack Quinceañera event site with a beautiful frontend and a connected RSVP system powered by Express.js and SQLite.
+A complete Quinceañera event web app that combines a beautifully designed frontend with a live RSVP backend (powered by Express.js and SQLite).  
+Guests can submit their names, number of attendees, and messages — all stored securely in a local SQLite database.
 
 ---
 
@@ -19,7 +20,7 @@ A full-stack Quinceañera event site with a beautiful frontend and a connected R
 - Animations and custom modal UI  
 
 **Backend:**
-- Node.js + Express  
+- Node.js + Express.js  
 - SQLite (via `sqlite3` and `sqlite` packages)
 - CORS + static file serving  
 
